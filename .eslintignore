@@ -1,0 +1,4 @@
+//para omitir de las reglas a estas carpetas
+node_modules
+public
+server.js
